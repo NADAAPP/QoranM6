@@ -1,6 +1,8 @@
 [
   {
-    "name": "اذاعة القرآن الكريم",
-    "url": "http://s2.voscast.com:12312/;"
+    "name": "medradio",
+    "streamUrl": "http://s2.voscast.com:12312/;",
+    "favicon": ""
   }
+  
 ]
